@@ -9,7 +9,7 @@
   "description": "CHERD: a chord sequencer as an eighth sequencer. Roots in the right hand, flavors in the left, genres incl. django.",
   "repository": "https://github.com/hasis/cherd",
   "commit": "TO-FILL-forty-hex-digits",
-  "path": "cherd.pack",
+  "path": "field/cherd.pack",
   "sha256": "86b1a0fe66ac6969d7419c31d5462a75bd180afe4763c743bcb1c3d67956c2bf",
   "bytes": 127084,
   "version": 18,
