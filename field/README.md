@@ -69,12 +69,16 @@ to pompe, click the 1st again. Click the 3rd (comp on), SEQ on, and hold A, D, E
 | | |
 | --- | --- |
 | File | `cherd.pack` |
-| Version | 18 |
-| Size | 127084 bytes |
-| SHA-256 | `86b1a0fe66ac6969d7419c31d5462a75bd180afe4763c743bcb1c3d67956c2bf` |
+| Version | 20 |
+| Size | 128112 bytes |
+| SHA-256 | `e1f55606384781d483bbbb8d81412adcc0da0526b4eb0984cab52f6a5f2c93e3` |
 
 **Tested on** OS 1.7.3+0, bootloader 1000.1.1, 2026-11-19: CHERD as the eighth entry in the sequencer menu, the pick
 kept across a restart, and SEQ off showing CHERD's page.
+
+**What's new since 18:** CHERD hands its notes and the screen to engine packs (engines.pack) when they are installed,
+so its chords play new synth engines; and it offers its scale and current chord to other packs (`op1f_cherd_pcs`),
+which the Auto Tune pack snaps to. Both are optional links: on its own, CHERD works as before.
 
 ## Source
 
