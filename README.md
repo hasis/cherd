@@ -89,3 +89,7 @@ The source is in the open-field project (the pack's recipe under `tools/pack/che
   rasterized inside the pack; the licence is in [OFL-Petaluma.txt](OFL-Petaluma.txt).
 - **CHERD's chord engine** comes from the OP-XY Cherd, in the Open-XY project, under the MIT License,
   "Copyright (c) 2026 Open-XY contributors".
+
+## Licence
+
+MIT ([LICENSE](LICENSE)). The Petaluma Script glyphs inside the pack stay under the SIL Open Font License 1.1.

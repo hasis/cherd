@@ -1,11 +1,13 @@
 {
   "_draft": "DRAFT, not submitted. An entry for open-field's catalog/packs.json (see its docs/catalog.md). Before a pull request: drop this _draft field, fill repository and commit with the public repo and the full id of the commit holding cherd.pack, and wait for the official open-field for 1.7.3 (the listing only takes firmware it has a profile for).",
   "id": "cherd",
-  "author": "TO-FILL-github-name",
+  "author": "hasis",
   "status": "listed",
-  "categories": ["sequencing"],
+  "categories": [
+    "sequencing"
+  ],
   "description": "CHERD: a chord sequencer as an eighth sequencer. Roots in the right hand, flavors in the left, genres incl. django.",
-  "repository": "https://github.com/TO-FILL/cherd",
+  "repository": "https://github.com/hasis/cherd",
   "commit": "TO-FILL-forty-hex-digits",
   "path": "cherd.pack",
   "sha256": "86b1a0fe66ac6969d7419c31d5462a75bd180afe4763c743bcb1c3d67956c2bf",
@@ -15,5 +17,10 @@
   "places": 13,
   "needs": [],
   "level": 3,
-  "folders": [{"name": "cherd", "place": "cherd"}]
+  "folders": [
+    {
+      "name": "cherd",
+      "place": "cherd"
+    }
+  ]
 }
