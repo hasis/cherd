@@ -2,10 +2,8 @@
 
 > **Read this first**
 >
-> - This pack is for **OP-1 Field OS 1.7.3+0** running the **open-field** loader and `base.pack`
->   ([Faust's open-field](https://github.com/LaP0573/open-field)), ported to 1.7.3.
-> - It does **not** run on open-field's current 1.7.0 release: the loader leaves it out.
-> - The official open-field for 1.7.3 is in the works.
+> - This pack is for **OP-1 Field OS 1.7.3+0** running [open-field](https://github.com/LaP0573/open-field) for
+>   OS 1.7.3 (the loader and `base.pack`). It does not run on open-field's older page for 1.7.0.
 > - Installing open-field changes your unit's firmware, at your own risk. Read open-field's NOTICE first.
 > - **Never install 1.7.3+1.** It locks the bootloader (1000.2.0). Only 1.7.3+0 on bootloader 1000.1.1 works.
 > - A pack is a program that can read and write the files on your unit: take packs only from people you trust.
