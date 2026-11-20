@@ -55,6 +55,8 @@ encoder.
 - **FEEL page** (1st click): smooth, swing, human; the 4th picks the comp pattern (stab, chrl, pump, sync, pompe).
 - **ARP page** (hold Shift): mode, rate (1/4 to 1/32), gate, octaves (1 to 3). Shift + 4th click keeps it open
   (again to close).
+- **Lead** (3rd, the last step): single notes in the key and scale. A key in the scale plays its own note; one
+  outside it moves to the nearest scale note, down on a tie (in Bb lydian, B plays Bb).
 - **SEQ on** plays chords. **SEQ off** plays plain notes; CHERD's page stays up and says SEQ OFF.
 - **Octave arrows** move the octave from -4 to +4 while you play. Chords sound an octave below the key you press.
 - Spread, strum, comp, arp, swing and human are kept per synth slot; key, scale, flow and smooth are shared.
@@ -67,9 +69,9 @@ to pompe, click the 1st again. Click the 3rd (comp on), SEQ on, and hold A, D, E
 | | |
 | --- | --- |
 | File | `cherd.pack` |
-| Version | 20 |
-| Size | 128112 bytes |
-| SHA-256 | `e1f55606384781d483bbbb8d81412adcc0da0526b4eb0984cab52f6a5f2c93e3` |
+| Version | 21 |
+| Size | 127428 bytes |
+| SHA-256 | `a0933ed8fd2d0de0be067b3a758166fbdf09abc3d1ea6dc6150ddc0b11204dbb` |
 
 **Tested on** OS 1.7.3+0, bootloader 1000.1.1, 2026-11-19: CHERD as the eighth entry in the sequencer menu, the pick
 kept across a restart, and SEQ off showing CHERD's page.
